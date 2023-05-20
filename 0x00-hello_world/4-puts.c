@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+int puts(const char *str);
+
 /*main functioni*/
 int main(void)
 {
