@@ -1,10 +1,18 @@
 #include<stdio.h>
-/*main functioni*/
+/**
+ * main - where the progrm starts and ends
+ * returns: always 0(success)
+ */
 int main(void)
 {
+	/**
+	 * puts function
+	 */
 	puts("\"Programming is like building a multilingual puzzle");
 
-	/*returns value 0*/
+	/*
+	 * returns value always 0
+	 * /
 	return (0);
 }
 
