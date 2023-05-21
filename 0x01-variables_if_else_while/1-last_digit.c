@@ -5,7 +5,7 @@
 /**
  * main - prints last digit of number and, if it's > than 5, < than 5,= to 0
  *
- * Return - Always 0 (success).
+ * Return: Always 0 (success).
  */
 int main(void)
 {
