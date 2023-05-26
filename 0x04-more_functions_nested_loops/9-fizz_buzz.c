@@ -25,7 +25,7 @@ int main(void)
 		}
 		else if (w == 1)
 		{
-			printf(" %d", w);
+			printf("%d", w);
 		}
 		else
 		{
