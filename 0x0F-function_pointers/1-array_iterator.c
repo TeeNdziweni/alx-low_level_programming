@@ -7,7 +7,7 @@
  * @action: pointer to print regular/hexegon
  * Return: void
  */
-void array_inerator(int *array, size_t size, void (*action)(int))
+void array_iterator(int *array, size_t size, void (*action)(int))
 
 {
 	unsigned int b;
