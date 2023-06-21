@@ -1,7 +1,7 @@
 #include "function_pointers.h"
 #include <stdio.h>
 /**
- * array_inerator - print array element
+ * array_iterator - print array element
  * @array: array
  * @size: how many elements
  * @action: pointer to print regular/hexegon
